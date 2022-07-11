@@ -1,0 +1,28 @@
+{
+  "name": "@pritesh9/search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritesh9/search.git"
+  },
+  "keywords": [
+    "search",
+    "javascript",
+    "fulltext",
+    "instant"
+  ],
+  "author": "Pritesh Patel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pritesh9/search/issues"
+  },
+  "homepage": "https://github.com/pritesh9/search#readme"
+}
