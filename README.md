@@ -10,7 +10,7 @@
 
 To use the library frist you need to import the single function `search` using following import statement.
 ```
-inport { search } from '@pritesh9/search
+inport { search } from '@pritesh9/search'
 ```
 
 Now you can call the function to get matced objects. Following code requests first 20 matchs.
